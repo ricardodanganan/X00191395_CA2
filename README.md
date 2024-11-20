@@ -56,8 +56,9 @@ _Pipeline YAML Configuration Screenshot:_
 ## Branch Policies and Protection
 Two branches were used: `main` and `development`. Changes were initially made in the `development` branch and then merged into the `main` branch through pull requests to ensure code quality and testing.
 - **Branch Protection**: A policy was set up to require pull requests and review before merging into `main`.
+
 - **Branch Merge**: Screenshot of merging `development` into `main`:
-  ![Figure 16: Commit history merging `development` into `main`](C:\College - DevOps_Projects\X00191395_CA2\images\figure16_commit_history_merge.png)
+  ![Figure 16: Commit history merging `development` into `main`](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure16_commit_history_merge.png)
 
 ## Testing Strategy
 Unit tests were written in `test_todo.py` to verify core functionalities, including:
@@ -68,7 +69,7 @@ Unit tests were written in `test_todo.py` to verify core functionalities, includ
 The unit tests are automatically executed as part of the CI pipeline to ensure no regressions.
 
 **Screenshot of Running Tests:**
-![Figure 12: Terminal showing Git commands to add, commit, and push changes](C:\College - DevOps_Projects\X00191395_CA2\images\figure12_git_add_commit_push.png)
+![Figure 12: Terminal showing Git commands to add, commit, and push changes](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure12_git_add_commit_push.png)
 
 ## Troubleshooting Guide
 During the development of the CI pipeline, a problem with hosted parallelism was encountered. Below are the steps that were followed:
