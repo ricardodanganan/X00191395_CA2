@@ -9,7 +9,7 @@
 6. [Branch Policies and Protection](#branch-policies-and-protection)
 7. [Testing Strategy](#testing-strategy)
 8. [Troubleshooting Guide](#troubleshooting-guide)
-9. [License](#license)
+9. [Azure DevOps Pipeline](#azure-devOps-pipeline)
 10. [Contact](#contact)
 
 ## Overview
@@ -93,8 +93,8 @@ _Screenshot: Azure DevOps Parallelism Request Form_
  _Screenshot of Successful Pipeline:_
 ![Figure 14: Successful Azure Pipeline run](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure14_successful_pipeline_summary.png)
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Azure DevOps Pipeline
+You can view the Azure DevOps CI/CD pipeline for this project [here](https://dev.azure.com/X00191395/X00191395_CA2).
 
 ## Contact
 Created by Ricardo Danganan Jnr - feel free to contact me at x00191395@mytudublin.ie for questions or suggestions.
