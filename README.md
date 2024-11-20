@@ -9,8 +9,9 @@
 6. [Branch Policies and Protection](#branch-policies-and-protection)
 7. [Testing Strategy](#testing-strategy)
 8. [Troubleshooting Guide](#troubleshooting-guide)
-9. [License](#license)
-10. [Contact](#contact)
+9. [Azure DevOps Pipeline](#Azure DevOps Pipeline)
+10. [License](#license)
+11. [Contact](#contact)
 
 ## Overview
 This is a simple to-do list application developed as part of the DevOps CA2 assignment. The application allows users to add tasks, view tasks, mark them as complete or incomplete, and delete them. The project includes a CI/CD pipeline implemented with Azure DevOps to automate testing and integration processes.
@@ -92,6 +93,9 @@ _Screenshot: Azure DevOps Parallelism Request Form_
 - Once approved, the pipeline ran successfully.
  _Screenshot of Successful Pipeline:_
 ![Figure 14: Successful Azure Pipeline run](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure14_successful_pipeline_summary.png)
+
+## Azure DevOps Pipeline
+You can view the Azure DevOps CI/CD pipeline for this project [here](https://dev.azure.com/X00191395/X00191395_CA2).
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
