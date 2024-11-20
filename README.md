@@ -1,5 +1,17 @@
 # X00191395_CA2 - DevOps CA2 To-Do List
 
+## Table of Contents
+1. [Overview](#overview)
+2. [Technologies Used](#technologies-used)
+3. [Local Development Setup](#local-development-setup)
+4. [Application Features](#application-features)
+5. [CI Pipeline Implementation](#ci-pipeline-implementation)
+6. [Branch Policies and Protection](#branch-policies-and-protection)
+7. [Testing Strategy](#testing-strategy)
+8. [Troubleshooting Guide](#troubleshooting-guide)
+9. [License](#license)
+10. [Contact](#contact)
+
 ## Overview
 This is a simple to-do list application developed as part of the DevOps CA2 assignment. The application allows users to add tasks, view tasks, mark them as complete or incomplete, and delete them. The project includes a CI/CD pipeline implemented with Azure DevOps to automate testing and integration processes.
 
