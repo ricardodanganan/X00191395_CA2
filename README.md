@@ -9,7 +9,7 @@
 6. [Branch Policies and Protection](#branch-policies-and-protection)
 7. [Testing Strategy](#testing-strategy)
 8. [Troubleshooting Guide](#troubleshooting-guide)
-9. [Azure DevOps Pipeline](#Azure DevOps Pipeline)
+9. [Azure DevOps Pipeline](#azure-devOps-pipeline)
 10. [License](#license)
 11. [Contact](#contact)
 
