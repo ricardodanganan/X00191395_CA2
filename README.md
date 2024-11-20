@@ -68,16 +68,18 @@ Unit tests were written in `test_todo.py` to verify core functionalities, includ
 
 The unit tests are automatically executed as part of the CI pipeline to ensure no regressions.
 ![Figure 12: Terminal showing Git commands to add, commit, and push changes](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure12_git_add_commit_push.png)
+
 **Screenshot of Running Tests:**
 
 ## Troubleshooting Guide
 During the development of the CI pipeline, a problem with hosted parallelism was encountered. Below are the steps that were followed:
 - Submitted a parallelism request to Azure DevOps support.
-  _Screenshot: Azure DevOps Parallelism Request Form_
-  ![Figure 11: Azure DevOps Parallelism Request](C:\College - DevOps_Projects\X00191395_CA2\images\figure11_azure_devops_parallelism_request.png)
+_Screenshot: Azure DevOps Parallelism Request Form_
+![Figure 11: Azure DevOps Parallelism Request](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure11_azure_devops_parallelism_request.png)
+
 - Once approved, the pipeline ran successfully.
-  _Screenshot of Successful Pipeline:_
-  ![Figure 14: Successful Azure Pipeline run](C:\College - DevOps_Projects\X00191395_CA2\images\figure14_successful_pipeline_summary.png)
+ _Screenshot of Successful Pipeline:_
+![Figure 14: Successful Azure Pipeline run](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure14_successful_pipeline_summary.png)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
