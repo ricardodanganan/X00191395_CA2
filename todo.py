@@ -2,18 +2,19 @@
 # Student ID: X00191395
 # Module: DevOps - Continuous Integration and Deployment
 # Created on: 19/11/2024
+# Submitted on: 20/11/2024
 
 # This is a simple to-do list application that allows users to add tasks, view tasks, mark tasks as complete or incomplete, and delete tasks.
 
-# list to store tasks
+# list to store tasks in the to-do list application 
 tasks = []
 
-# functions to interact with the to-do list application
+# functions to interact with the to-do list application 
 def add_task(task):
     tasks.append({'task': task, 'completed': False})
     print(f'Task "{task}" added successfully.')
 
-# function to view all tasks
+# function to view all tasks in the to-do list application
 def view_tasks():
     if not tasks:
         print("No tasks available.")
