@@ -2,7 +2,7 @@
 # Student ID: X00191395
 # Module: DevOps - Continuous Integration and Deployment
 # Created on: 20/11/2024
-# This file contains the unit tests for the todo app using the unittest module
+# This file contains the unit tests for the todo app using the unittest module in Python.
 
 # Import the unittest module
 import unittest
