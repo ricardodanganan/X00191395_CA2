@@ -1,7 +1,7 @@
 trigger:
   branches:
     include:
-      - development  
+      - development  # This section specifies that the pipeline will be triggered whenever there are changes made to the 'development' branch. Ensure that you push to this branch to activate the pipeline.
 
 pool:
   vmImage: 'ubuntu-latest'
