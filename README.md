@@ -42,7 +42,7 @@ Follow these steps to set up the project locally:
 - **Delete Task**: Users can delete tasks from the list.
 
 _Screenshot: Expanded functionality of the to-do list_
-![Figure 6: Expanded functionality of the to-do list application](C:\College - DevOps_Projects\X00191395_CA2\images\figure6_todo_list_expanded_functionality.png)
+![Figure 6: Expanded functionality of the to-do list application](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure6_todo_list_expanded_functionality.png)
 
 ## CI Pipeline Implementation
 The CI pipeline is configured using Azure DevOps, with the following steps:
@@ -51,7 +51,7 @@ The CI pipeline is configured using Azure DevOps, with the following steps:
 - **Run Unit Tests**: Runs unit tests using Python's unittest framework.
 
 _Pipeline YAML Configuration Screenshot:_
-![Figure 13: Updated azure-pipelines.yml configuration](C:\College - DevOps_Projects\X00191395_CA2\images\figure13_updated_azure_pipeline_config.png)
+![Figure 13: Updated azure-pipelines.yml configuration](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure13_updated_azure_pipeline_config.png)
 
 ## Branch Policies and Protection
 Two branches were used: `main` and `development`. Changes were initially made in the `development` branch and then merged into the `main` branch through pull requests to ensure code quality and testing.
