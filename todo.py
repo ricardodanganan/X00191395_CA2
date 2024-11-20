@@ -5,7 +5,7 @@
 
 # This is a simple to-do list application that allows users to add tasks, view tasks, mark tasks as complete or incomplete, and delete tasks.
 
-# list to store tasks
+# list to store tasks in the to-do list application
 tasks = []
 
 # functions to interact with the to-do list application
