@@ -1,6 +1,7 @@
 # Student Name: Ricardo Danganan Jnr
 # Student ID: X00191395
 # Module: DevOps - Continuous Integration and Deployment
+# Lecturer Name: Damian Niezgoda
 # Created on: 19/11/2024
 # Submitted on: 20/11/2024
 
