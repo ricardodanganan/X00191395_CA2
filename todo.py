@@ -1,5 +1,6 @@
 # Student Name: Ricardo Danganan Jnr
 # Student ID: X00191395
+# Student Email: x00191395@mytudublin.ie
 # Module: DevOps - Continuous Integration and Deployment
 # Lecturer Name: Damian Niezgoda
 # Created on: 19/11/2024
