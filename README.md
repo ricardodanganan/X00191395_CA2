@@ -17,7 +17,8 @@ Follow these steps to set up the project locally:
    git clone <repository-url>
    ```
    _Screenshot: Cloning the repository to Visual Studio Code_
-   !(https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure2_clone_repository_vscode.png)
+   ![Figure 2: Cloning the repository in Visual Studio Code](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure2_clone_repository_vscode.png)
+
 
 2. **Navigate to the project directory:**
    ```bash
