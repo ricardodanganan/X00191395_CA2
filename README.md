@@ -67,8 +67,8 @@ Unit tests were written in `test_todo.py` to verify core functionalities, includ
 - **Deleting Tasks**
 
 The unit tests are automatically executed as part of the CI pipeline to ensure no regressions.
-**Screenshot of Running Tests:**
 ![Figure 12: Terminal showing Git commands to add, commit, and push changes](https://github.com/ricardodanganan/X00191395_CA2/raw/main/images/figure12_git_add_commit_push.png)
+**Screenshot of Running Tests:**
 
 ## Troubleshooting Guide
 During the development of the CI pipeline, a problem with hosted parallelism was encountered. Below are the steps that were followed:
