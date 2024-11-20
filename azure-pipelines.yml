@@ -1,7 +1,7 @@
 trigger:
   branches:
     include:
-      - development  # Ensure this branch triggers the pipeline
+      - main  
 
 pool:
   vmImage: 'ubuntu-latest'
