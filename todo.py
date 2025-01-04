@@ -6,6 +6,8 @@
 # Created on: 19/11/2024
 # Submitted on: 20/11/2024
 
+# CA evaluation
+
 # This is a simple to-do list application that allows users to add tasks, view tasks, mark tasks as complete or incomplete, and delete tasks.
 
 # list to store tasks in the to-do list application 
